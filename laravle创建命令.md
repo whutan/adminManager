@@ -71,6 +71,7 @@ git branch          查看仓库分支情况
 git branch -d 分支名称  删除分支
 git checkout 分支名称    切换分支
 ssh-keygen -t rsa       指定RSA算法生成秘钥
-
+git rm 文件名            删除指定的文件
+git rm -r 文件夹名称      删除指定的文件夹
 ```
 
